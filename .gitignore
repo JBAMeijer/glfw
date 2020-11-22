@@ -17,6 +17,7 @@ Release
 MinSizeRel
 bin
 bin-int
+*.vcxproj*
 RelWithDebInfo
 *.opensdf
 
